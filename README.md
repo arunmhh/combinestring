@@ -16,7 +16,7 @@ Install the package directly from GitHub:
 install.packages("remotes")
 
 # install bareCombineAddin
-remotes::install_github("arunmhh/bareCombineAddin")
+remotes::install_github("arunmhh/combinestring")
 ```
 
 
