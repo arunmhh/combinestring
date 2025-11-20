@@ -1,5 +1,5 @@
 
-# bareCombineAddin
+# stringCombineAddin
 
 **Quickly convert selected text into an R character vector with double quotes.**
 
