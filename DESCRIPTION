@@ -1,4 +1,4 @@
-Package: string combine
+Package: stringcombine
 Title: Quickly Combine Text into R Character Vectors
 Version: 0.1.0
 Authors@R: 
