@@ -1,12 +1,9 @@
-Name: Bare Combine (Original)
+Name: string Combine (Original)
 Description: Convert selected text into a quoted R vector
-Binding: bare_combine
+Binding: string_combine
 Interactive: false
 
-Name: Bare Combine (With Libraries)
-Description: Run bare_space_combine() using libraries already loaded in session
-Binding: bare_combine_addin
-Interactive: false
+
 
 
 
