@@ -6,7 +6,7 @@
 #' @import rstudioapi
 #' @import utils
 #' @export
-bare_combine <- function() {
+string_combine <- function() {
 
   ctx <- rstudioapi::getActiveDocumentContext()
 
